@@ -29,6 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto foi criado para uma Cantora Fícticia, Jane Doe (Feminino de Zé Ninguém em Inglês).
 
-Se você quiser ver o site entre neste link: [Projeto Jane Doe](https://nigerade.github.io/meu-portfolio/)
+Se você quiser ver o site entre neste link: [Projeto Jane Doe](https://nigerade.github.io/Site-Jane-Doe/)
 
 --- 
